@@ -46,8 +46,11 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![Screenshot 2023-05-30 104829](https://github.com/Vasanthamukilan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119559694/607c4598-4c98-4ced-baa6-95e64d4fd580)
+![Screenshot 2023-05-30 104858](https://github.com/Vasanthamukilan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119559694/bef79966-4b94-43dc-a78f-e17eb830e751)
+![Screenshot 2023-05-30 104925](https://github.com/Vasanthamukilan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119559694/79d10946-7438-457d-85b5-42b6d3c69548)
 
-### Name:
+### Name:Vasanthamukilan.M
 ### Register Number:
 
 ## Result: 
